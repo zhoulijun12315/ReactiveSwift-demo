@@ -4,5 +4,6 @@
   
 # Usage  如何使用
 use Carthage
+
  ```carthage update --no-use-binaries --platform ios ```
 
